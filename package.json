@@ -50,5 +50,6 @@
     "typescript": "~3.7.2",
     "git-hooks-plus": "^1.0.1",
     "prettier": "^2.1.2"
+     "git-hooks-plus": "^1.0.1"
   }
 }
