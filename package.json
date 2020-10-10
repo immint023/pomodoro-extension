@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/immint023/pomodoro-extension/issues"
   },
-  "homepage": "https://github.com/immint023/pomodoro-extension#readme"
+  "homepage": "https://github.com/immint023/pomodoro-extension#readme",
+  "devDependencies": {
+    "git-hooks-plus": "^1.0.1"
+  }
 }
